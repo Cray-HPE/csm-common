@@ -30,8 +30,8 @@ import (
 	"log"
 	"strings"
 
-	csiFiles "github.com/Cray-HPE/csm-common/internal/files"
-	"github.com/Cray-HPE/csm-common/pkg/csi"
+	csiFiles "github.com/Cray-HPE/csm-common/go/internal/files"
+	"github.com/Cray-HPE/csm-common/go/pkg/csi"
 	"github.com/spf13/viper"
 )
 

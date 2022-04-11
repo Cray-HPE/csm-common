@@ -1,4 +1,4 @@
-module github.com/Cray-HPE/csm-common
+module github.com/Cray-HPE/csm-common/go
 
 replace (
 	k8s.io/client-go => k8s.io/client-go v0.22.2

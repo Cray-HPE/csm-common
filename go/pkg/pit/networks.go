@@ -13,8 +13,8 @@ import (
 
 	"github.com/spf13/viper"
 
-	csiFiles "github.com/Cray-HPE/csm-common/internal/files"
-	"github.com/Cray-HPE/csm-common/pkg/csi"
+	csiFiles "github.com/Cray-HPE/csm-common/go/internal/files"
+	"github.com/Cray-HPE/csm-common/go/pkg/csi"
 )
 
 // WriteCPTNetworkConfig writes the Network Configuration details for the installation node  (PIT)
